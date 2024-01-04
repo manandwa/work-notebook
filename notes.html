@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h4>General Notes</h4>
+
+<div class="lines"></div>
+
+<ul class="list">
+    {% for note in site.notes %}
+        <li>
+            <p><a href="{{ note.url }}">{{ note.title }}</a></p>
+            <p>{{ note.Purpose }}</p>
+        </li>
+    {% endfor %}
+
+</ul>
