@@ -47,4 +47,6 @@ body {
     height: 495px;
     margin-left: 40px;
   }
-  ​
+  ​.nav {
+    font-size: 22px;
+  }

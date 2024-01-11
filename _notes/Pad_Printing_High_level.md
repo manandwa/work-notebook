@@ -1,4 +1,8 @@
-# Automated Pad Printing Project
+---
+title: Automated Pad Printing Project
+Purpose: null
+---
+
 
 Endosampler pad printing (High Level) <br>
 Raw tube stock --> Pad printer --> Printed tubes
@@ -17,10 +21,10 @@ Gripper model created in Onshape on Friday 12/23/2023
 Gripper diagram
 
 
-```mermaid
-flowchart TD;
-A[Gripper Opens] --> |Gripper grabs blank tube from start bin| B[Gripper loads tube into cache] --> C[Inkblot comes down on tube] --> D[Printing occurs] --> |Gripper opens and grabs printed tube| E[Gripper places printed tube into finished parts bin] --> A;
-```
+<pre class="mermaid">
+    flowchart TD;
+    A[Gripper Opens] --> |Gripper grabs blank tube from start bin| B[Gripper loads tube into cache] --> C[Inkblot comes down on tube] --> D[Printing occurs] --> |Gripper opens and grabs printed tube| E[Gripper places printed tube into finished parts bin] --> A;
+</pre>
 
 
 Joe Reisch can help with automation of pad printing [Contact Information](http://www.reischpad.com/contact.html)

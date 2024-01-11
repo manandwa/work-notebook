@@ -1,5 +1,4 @@
 ---
-layout: note
 title: Automated Pad Printing diagram
 Purpose: Generate overall flow of what the automation system will be doing for pad printing
 ---

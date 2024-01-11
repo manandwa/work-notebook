@@ -1,5 +1,4 @@
 ---
-layout: note
 title: Colpscope Room Clean out
 Purpose: null
 ---

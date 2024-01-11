@@ -1,4 +1,8 @@
-# Pad Printing automation and Syringe Die Cutting Automation
+---
+title: Pad Printing automation and Syringe Die Cutting Automation
+Purpose: null
+---
+
 
 ## Pad printing automation
 Discussed with Joe Reisch
@@ -9,10 +13,10 @@ Discussed with Joe Reisch
 ## Syringe Die Cutting Automation
 
 Current Flow
-```mermaid
-flowchart TD;
-A[Remove Syringe from Start Bin] --> B[Extend Syringe] --> C[Insert Syringe into Fixture] --> D[Hit Foot Pedal] --> E[Cut Syringe] --> F[Remove Syringe from Fixture] --> GF[Place Cut Syringe in Finished goods Bin] --> A;
-```
+<pre class="mermaid">
+    flowchart TD;
+    A[Remove Syringe from Start Bin] --> B[Extend Syringe] --> C[Insert Syringe into Fixture] --> D[Hit Foot Pedal] --> E[Cut Syringe] --> F[Remove Syringe from Fixture] --> GF[Place Cut Syringe in Finished goods Bin] --> A;
+</pre>
 
 Don't use current fixtures as it is harder to adapt a manual process to automation rather then to start with one that is already taylor made for it.
 

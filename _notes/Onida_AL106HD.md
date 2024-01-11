@@ -1,5 +1,8 @@
-# AL106HD update
-
+---
+title: AL106HD update
+Purpose: null
+---
+ 
 ## Updates
 * Received Powerbox
 * Received colopscope head

@@ -1,5 +1,4 @@
 ---
-layout: note
 title: MVP-100 220 Volt testing procedure
 Purpose: To test Medgyn Disposable Jars with MVP-100 Pump
 ---

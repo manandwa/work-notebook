@@ -1,5 +1,4 @@
 ---
-layout: note
 title: New Projects from Amar
 Purpose: null
 ---

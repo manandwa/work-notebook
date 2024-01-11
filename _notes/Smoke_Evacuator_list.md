@@ -1,4 +1,8 @@
-# Smoke Evacuator Parts list
+---
+title: Smoke Evacuator Parts list
+Purpose: null
+---
+
 
 - [ ] Soldering Iron
 - [ ] Solder

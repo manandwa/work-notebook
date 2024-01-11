@@ -11,5 +11,21 @@ plugins:
    - jekyll-seo-tag
    - jekyll-paginate
 
-paginate: 10
-paginate_path: /page:num/
+paginate: 5
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "notes"
+    values: 
+      layout: "note"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

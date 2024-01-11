@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Smoke Evacuator Parts list
 ---
 # {{  page.title }}

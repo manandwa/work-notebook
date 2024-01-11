@@ -1,5 +1,4 @@
 ---
-layout: note
 title: New part testing protocol
 Purpose: As new parts come in from other vendors, we need to verify that they are meeting specifications
 ---

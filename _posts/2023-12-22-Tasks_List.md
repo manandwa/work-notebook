@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tasks for Today
 ---
 # {{  page.title }}
